@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jubayed Islam</h1>
-<h3 align="center">A programmer who is enthusiastic about designing and creating Mobile APIs and who loves to code. In my own opinion, Java is great. I'm now learning Go Lang while using a Dart. I like using the Flutter framework for my work.</h3>
+<h3 align="center">I’m a Front Mobile App Developer passionate about making error-free Mobile Application with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 15+ Mobile Applications for my clients. I pride myself on doing quality work and maintaining excellent communication. In my own opinion, Java is great. I'm now learning Go Lang while using a Dart. I like using the Flutter framework for my work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayed004&label=Profile%20views&color=0e75b6&style=flat" alt="jubayed004" /> </p>
 
