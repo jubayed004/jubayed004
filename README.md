@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jubayed Islam</h1>
-<h3 align="center">Hi there! 👋 I'm a passionate Front-end Mobile App Developer dedicated to building error-free, high-performance mobile applications that ensure 100% client satisfaction. With a strong focus on delivering quality work and maintaining clear communication, I've successfully developed 15+ mobile apps that solve real-world problems.>
-
-<💡 I thrive on learning new technologies and sharing knowledge with the developer community. Currently, I'm expanding my skills by learning Go Lang, while crafting apps using Dart and the Flutter framework—my go-to toolkit for creating seamless user experiences.>
-
+<h3 align="center">Hi there! 👋 I'm a passionate Front-end Mobile App Developer dedicated to building error-free, high-performance mobile applications that ensure 100% client satisfaction. With a strong focus on delivering quality work and maintaining clear communication, I've successfully developed 15+ mobile apps that solve real-world problems.
+💡 I thrive on learning new technologies and sharing knowledge with the developer community. Currently, I'm expanding my skills by learning Go Lang, while crafting apps using Dart and the Flutter framework—my go-to toolkit for creating seamless user experiences.
 🎯 Being strategic and goal-oriented, I always work with a clear vision and an end goal in mind, ensuring every project meets the highest standards.
-
 💻 Tech Stack:
 
-Languages: Java, Dart, Go (learning)
+Languages: Java, Dart, C, C++, MySQL, Go (learning)
 Framework: Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayed004&label=Profile%20views&color=0e75b6&style=flat" alt="jubayed004" /> </p>
