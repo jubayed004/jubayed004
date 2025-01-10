@@ -8,7 +8,7 @@
 
 <h3 align="left">💻 Tech Stack: </h3> 
 
-<h3 align="left">Languages: Java, Dart, C, C++, MySQL, Go (learning)</h3> 
+<h3 align="left">Languages:  Dart, Flutter, Java, C, C++, MySQL, Go (learning)</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayed004&label=Profile%20views&color=0e75b6&style=flat" alt="jubayed004" /> </p>
 
