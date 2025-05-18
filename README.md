@@ -1,42 +1,87 @@
-<h1 align="center">Hi 👋, I'm Mohammad Jubayed Islam</h1>
-<h3 align="center">I'm a passionate Front-end Mobile App Developer dedicated to building error-free, high-performance mobile applications that ensure 100% client satisfaction. With a strong focus on delivering quality work and maintaining clear communication, I've successfully developed 15+ mobile apps that solve real-world problems.
-💡 I thrive on learning new technologies and sharing knowledge with the developer community. Currently, I'm expanding my skills by learning Go Lang, while crafting apps using Dart and the Flutter framework—my go-to toolkit for creating seamless user experiences.
-🎯 Being strategic and goal-oriented, I always work with a clear vision and an end goal in mind, ensuring every project meets the highest standards.
+<h1 align="center">
+  Hi there 👋, I'm Mohammad Jubayed Islam
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+</h1>
 
-  
-  
+<h3 align="center">
+  🚀 Frontend Mobile App Developer | Flutter Enthusiast | Real-World Problem Solver
+</h3>
 
-<h3 align="left">💻 Tech Stack: </h3> 
-
-<h3 align="left">Languages:  Dart, Flutter, Java, C, C++, MySQL, Go (learning)</h3> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayed004&label=Profile%20views&color=0e75b6&style=flat" alt="jubayed004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubayed004" alt="jubayed004" /></a> </p>
-
-- 🔭 I’m currently working on **Flutter Framework**
-
-- 🌱 I’m currently learning **Flutter, Dart, Socket.io**
-
-- 👯 I’m looking to collaborate on **Flutter**
-
-- 🤝 I’m looking for help with **Flutter**
-
-- 💬 Ask me about **Flutter, Dart, Java**
-
-- 📫 How to reach me **mohammadjubayed.islam97@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad jubayed islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad jubayed islam" height="30" width="40" /></a>
-<a href="https://fb.com/jubayed5303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jubayed5303" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Flutter+Developer;15%2B+Apps+Deployed+Successfully;Love+Clean+Code+%26+Animations;Open+Source+Contributor;Currently+Learning+Go+Lang+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayed004&show_icons=true&locale=en&layout=compact" alt="jubayed004" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jubayed004&label=Profile%20views&color=0e75b6&style=flat" alt="jubayed004" />
+</p>
 
+---
 
+### 🧑‍💻 About Me
+- 🔭 Currently working with **Flutter Framework**
+- 🌱 Exploring: `Go Lang`, `Socket.io`, `Custom Flutter UIs`
+- 👯 Looking to collaborate on: **Flutter-based Open Source Projects**
+- 💬 Ask me about: `Flutter`, `Dart`, `Java`
+- 📫 Email me: **mohammadjubayed.islam97@gmail.com**
+- ⚡ Fun Fact: I love animations & smooth UX designs
 
+---
+
+### 🚀 Tech Stack
+
+#### 💻 Languages & Frameworks
+`Dart` · `Flutter` · `Java` · `C` · `C++` · `MySQL` · `Go (Learning)`  
+
+#### 🧰 Tools & Platforms  
+`Android Studio` · `Firebase` · `MongoDB` · `Postman` · `Git` · `Figma` · `Adobe XD` · `Linux`
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jubayed004&theme=gruvbox&row=1&column=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jubayed004&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayed004&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/mohammad jubayed islam" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="https://fb.com/jubayed5303" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=facebook" height="30" />
+  </a>
+  <a href="mailto:mohammadjubayed.islam97@gmail.com" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
+  </a>
+</p>
+
+---
+
+### ⚙️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,go,c,cpp,mysql,mongodb,firebase,git,linux,figma,xd,androidstudio" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  🚀 Let's build something amazing together!
+</p>
 
