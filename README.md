@@ -32,10 +32,28 @@
 ### 🚀 Tech Stack
 
 #### 💻 Languages & Frameworks
-`Dart` · `Flutter` · `Java` · `C` · `C++` · `MySQL` · `Go (Learning)`  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart" height="30"/> 
+  <img src="https://skillicons.dev/icons?i=flutter" height="30"/>
+  <img src="https://skillicons.dev/icons?i=java" height="30"/> 
+  <img src="https://skillicons.dev/icons?i=c" height="30"/> 
+  <img src="https://skillicons.dev/icons?i=cpp" height="30"/> 
+  <img src="https://skillicons.dev/icons?i=mysql" height="30"/> 
+  <img src="https://skillicons.dev/icons?i=go" height="30"/>
+</p>
 
-#### 🧰 Tools & Platforms  
-`Android Studio` · `Firebase` · `MongoDB` · `Postman` · `Git` · `Figma` · `Adobe XD` · `Linux`
+#### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30"/> 
+  <img src="https://skillicons.dev/icons?i=firebase" height="30"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="30"/>
+  <img src="https://skillicons.dev/icons?i=git" height="30"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="30"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="30" alt="adobe xd"/> 
+  <img src="https://skillicons.dev/icons?i=linux" height="30"/>
+</p>
+
 
 ---
 
