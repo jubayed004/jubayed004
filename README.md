@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </h1>
 
-<h3 align="center">
+<h3 align="center" style="color:#00F7FF;">
   🚀 Frontend Mobile App Developer | Flutter Enthusiast | Real-World Problem Solver
 </h3>
 
@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jubayed004&label=Profile%20views&color=0e75b6&style=flat" alt="jubayed004" />
+  <img src="https://komarev.com/ghpvc/?username=jubayed004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 - 🌱 Exploring: `Go Lang`, `Socket.io`, `Custom Flutter UIs`
 - 👯 Looking to collaborate on: **Flutter-based Open Source Projects**
 - 💬 Ask me about: `Flutter`, `Dart`, `Java`
-- 📫 Email me: **mohammadjubayed.islam97@gmail.com**
+- 📫 Email me: [mohammadjubayed.islam97@gmail.com](mailto:mohammadjubayed.islam97@gmail.com)
 - ⚡ Fun Fact: I love animations & smooth UX designs
 
 ---
@@ -32,74 +32,73 @@
 ### 🚀 Tech Stack
 
 #### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart" height="30"/> 
-  <img src="https://skillicons.dev/icons?i=flutter" height="30"/>
-  <img src="https://skillicons.dev/icons?i=java" height="30"/> 
-  <img src="https://skillicons.dev/icons?i=c" height="30"/> 
-  <img src="https://skillicons.dev/icons?i=cpp" height="30"/> 
-  <img src="https://skillicons.dev/icons?i=mysql" height="30"/> 
-  <img src="https://skillicons.dev/icons?i=go" height="30"/>
+<p align="left" style="padding-left: 10px;">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,c,cpp,mysql,go" height="30" alt="Languages" />
 </p>
 
 #### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30"/> 
-  <img src="https://skillicons.dev/icons?i=firebase" height="30"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="30"/>
-  <img src="https://skillicons.dev/icons?i=git" height="30"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="30"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="30" alt="adobe xd"/> 
-  <img src="https://skillicons.dev/icons?i=linux" height="30"/>
+<p align="left" style="padding-left: 10px;">
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,mongodb,postman,git,figma,xd,linux" height="30" alt="Tools" />
 </p>
-
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jubayed004&theme=gruvbox&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jubayed004&theme=gruvbox&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubayed004&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayed004&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jubayed004&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayed004&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🕒 Last GitHub Push
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/jubayed004/your-repo-name?style=for-the-badge&logo=github" alt="Last Commit" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayed004&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/mohammad jubayed islam" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+<p align="center" style="gap: 20px; display: flex; justify-content: center;">
+  <a href="https://linkedin.com/in/mohammadjubayedislam" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/jubayed5303" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=facebook" height="30" />
+  <a href="https://fb.com/jubayed5303" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook" />
   </a>
-  <a href="mailto:mohammadjubayed.islam97@gmail.com" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
+  <a href="mailto:mohammadjubayed.islam97@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Email" />
   </a>
 </p>
 
 ---
 
 ### ⚙️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,go,c,cpp,mysql,mongodb,firebase,git,linux,figma,xd,androidstudio" />
+<p align="center" style="margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,go,c,cpp,mysql,mongodb,firebase,git,linux,figma,xd,androidstudio" alt="Languages and Tools" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Let's build together" />
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px; font-weight: 600; color:#00F7FF;">
   🚀 Let's build something amazing together!
 </p>
-
