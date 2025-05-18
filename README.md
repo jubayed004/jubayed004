@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center" style="color:#00F7FF;">
-  🚀 Frontend Mobile App Developer | Flutter Enthusiast | Real-World Problem Solver
+  🚀 Mobile App Developer | Flutter Enthusiast | Real-World Problem Solver
 </h3>
 
 <p align="center">
